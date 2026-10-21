@@ -1,0 +1,1 @@
+Modules introducing students to molecular and synthetic biology. We have prepared modules with 17 educational files in English, and 12 each in Bengali and Hindi (41 educational documents in total). All materials are here.
